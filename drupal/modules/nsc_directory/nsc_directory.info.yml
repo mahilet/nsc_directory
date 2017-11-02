@@ -1,0 +1,7 @@
+name: Directory Service
+
+description: Directory services provided by using Web Services from The District office
+
+core: 8.x
+
+type: module

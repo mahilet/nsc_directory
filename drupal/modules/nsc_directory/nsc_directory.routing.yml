@@ -1,0 +1,13 @@
+nsc_directory_search_contribute:
+
+  path: '/about/directory/search'
+
+  defaults:
+
+    _form: '\Drupal\nsc_directory\Form\NSCSearchWebForm'
+
+    _title: 'Search North Seattle College Directory'
+
+  requirements:
+
+    _access: 'TRUE'

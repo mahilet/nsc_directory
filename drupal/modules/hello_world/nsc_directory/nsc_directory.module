@@ -1,0 +1,11 @@
+<?php
+
+function nsc_directory() {
+	$items = [
+		'my_element' => [
+			'render element' => 'element'
+		]
+	];
+
+	return $items;
+}

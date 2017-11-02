@@ -1,0 +1,6 @@
+nsc_directory:
+  version: 1.x
+  js:
+    js/nsc_directory.js: {}
+  dependencies:
+     - core/jquery

@@ -1,0 +1,7 @@
+global-styling:
+  css:
+    theme:
+      css/overrides.min.css: {}
+      css/style.css: {}
+  js:
+      js/main.js: {}
